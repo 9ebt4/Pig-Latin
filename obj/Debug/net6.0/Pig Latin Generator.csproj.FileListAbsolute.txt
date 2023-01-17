@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\bin\Debug\net6.0\Pig Latin Generator.exe
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\bin\Debug\net6.0\Pig Latin Generator.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\bin\Debug\net6.0\Pig Latin Generator.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\bin\Debug\net6.0\Pig Latin Generator.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\bin\Debug\net6.0\Pig Latin Generator.pdb
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\refint\Pig Latin Generator.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.pdb
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\Pig Latin Generator.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Pig Latin Generator\Pig Latin Generator\obj\Debug\net6.0\ref\Pig Latin Generator.dll
