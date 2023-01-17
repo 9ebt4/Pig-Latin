@@ -15,11 +15,6 @@ while (loop)
         bool nextWord = true;
         foreach (char wo in word)
         {
-            if (char.IsPunctuation(wo))
-            {
-                pun = Convert.ToString(wo);
-                word.Append(wo);
-            }
             if (char.IsDigit(wo))
             {
                 pigWord = word;
@@ -46,7 +41,6 @@ while (loop)
                 }//operate on all other symbols
                 else
                 {
-
                     int lCounter = 0;
                     string letter = null;
                     foreach (char w in word)
@@ -71,8 +65,7 @@ while (loop)
                 }
             }
         }
-        Console.Write(pigWord + " ");
-        Console.WriteLine(pun + " ");
+        Console.Write(" "+pigWord);
     }
 
         while (true)
